@@ -29,7 +29,7 @@
 ## About the Files ##
 
 ### .gitignore ###
-Ignores the node_modules folder when npm install is ran.
+Ignores the node_modules folder when pushing to GitHub.
 
 ### app.js ###
 Very simple server so that the project can be deployed to Heroku.
@@ -39,6 +39,7 @@ Have to have script: postinstall for Heroku to run the second package.json in th
 
 ### webpack.config.js ###
 Configures Webpack to use Babel to compile all ES6 syntax into bundle.js in the public folder.
+  
   
 ### public (folder) ###
 #### package.json ####
