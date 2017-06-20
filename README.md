@@ -18,7 +18,7 @@
   >nodemon app.js
   ```
   
-  Auto re-compile your ES6 code with Babel
+  In a new terminal tab, auto re-compile your ES6 code with Babel
   ```
   >webpack --watch
   ```
